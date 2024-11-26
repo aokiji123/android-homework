@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="button_size">60dp</dimen>
+    <dimen name="button_margin">8dp</dimen>
+    <dimen name="text_size_large">32sp</dimen>
+</resources>

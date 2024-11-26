@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Анкета для співбесіди</string>
+
+    <string name="hint_name">Введіть імя</string>
+    <string name="hint_age">Введіть вік</string>
+
+    <string name="salary_prefix">Зарплата: 3000 USD</string>
+
+    <string name="question_1">Як ви оцінюєте свою кваліфікацію з Java?</string>
+    <string name="question_2">Чи маєте досвід роботи з базами даних?</string>
+    <string name="question_3">Чи знаєте ви принципи ООП?</string>
+    <string name="question_4">Як ви працюєте з Git?</string>
+    <string name="question_5">Чи знайомі ви з фреймворками для тестування?</string>
+
+    <string name="answer_high">Висока</string>
+    <string name="answer_medium">Середня</string>
+    <string name="answer_low">Початкова</string>
+    <string name="answer_yes">Так</string>
+    <string name="answer_no">Ні</string>
+    <string name="answer_confident">Упевнено</string>
+    <string name="answer_basic">Базово</string>
+
+    <string name="checkbox_experience">Досвід роботи від 2 років</string>
+    <string name="checkbox_team_skills">Навички командної розробки</string>
+    <string name="checkbox_travel">Готовність до відряджень</string>
+
+    <string name="button_submit">Здати тест</string>
+
+    <string name="message_invalid_data">Будь ласка, заповніть всі поля!</string>
+</resources>
