@@ -1,0 +1,23 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_edit_text"
+        android:title="Редагувати текст"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_select_text"
+        android:title="Обрати текст"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_get_time"
+        android:title="Отримати поточний час"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_change_date"
+        android:title="Змінити дату"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_trigger_notification"
+        android:title="Виклик сповіщення"
+        app:showAsAction="never" />
+</menu>
